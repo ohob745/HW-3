@@ -15,8 +15,7 @@ You must utilize the following widgets:
 ## Submission:
 1. Flutter Project:
     - Submit the complete Flutter project folder, including all necessary files (screens and components).
-2. Screenshots of your app.
-3. GitHub Submission:
+2. GitHub Submission:
    - Create a Fork from the project’s GitHub repository.
    - Create a new branch with your name.
    - Commit frequently with descriptive messages to show your progress.
